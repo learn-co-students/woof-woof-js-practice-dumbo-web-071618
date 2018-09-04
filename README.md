@@ -1,6 +1,6 @@
 # WOOF WOOF WELCOME TO DOGGO BARK BARK
 
-THIS GOOD APPLICATION FOR LOOKING AT DOGS BOW WOW
+THIS SHOULD BE A GOOD APPLICATION FOR LOOKING AT DOGS BOW WOW
 
 WHEN LOOKING AT PUP PUPS USER SHOULD BE ABLE TO:
  - CLICK ON DOGS IN THE DOG BAR TO SEE MORE INFO ABOUT THE GOOD PUPPER
@@ -47,7 +47,7 @@ When you have the pup's information, the dog info div should have the following 
   - The corresponding pup object in the database should be updated to reflect the new isGoodDog value
     - Please note, you can update a dog by making a PATCH request to /pups/:id
 
-### BONUS! STEP 5: FILTER GOOD DOGS 
+### BONUS! STEP 5: FILTER GOOD DOGS
 When a user clicks on the Filter Good Dogs button, two things should happen:
  - The button's text should change from "Filter good dogs: OFF" to "Filter good dogs: ON", or vice versa.
  - If the button now says "ON" (meaning the filter is on), then the Dog Bar should only show pups whose isGoodDog attribute is true. If the filter is off, the Dog Bar should show all pups (like normal).
